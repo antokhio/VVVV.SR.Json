@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "integer": 1,
+    "string": "2",
+    "value": 1.1
+  },
+  "data": [ "hi", "hello", "hehe" ],
+  "case3": [
+    {
+      "name": "first",
+      "value": "1"
+    },
+    {
+      "name": "second",
+      "value": "0.1"
+    }
+  ]
+}
